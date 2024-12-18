@@ -1,1 +1,2 @@
 # CREW-TRACKER
+Crew Tracker is a Java-based application designed to efficiently manage and monitor crew members in an organization or team. Built with a focus on user-friendly interfaces and functionality, it utilizes Java for the backend logic and SQL for data management. The application provides essential features such as viewing, updating, and deleting crew member details, ensuring streamlined operations and seamless crew management.
